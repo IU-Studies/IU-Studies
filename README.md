@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Educational Stuffs
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Silent 
+- ⚡ Fun fact: OK 
 
 <!---
 IU-Studies/IU-Studies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
