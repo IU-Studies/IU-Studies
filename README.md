@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">💫 About me:</h1>
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
 
@@ -15,7 +15,7 @@
 </div>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
