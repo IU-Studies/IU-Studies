@@ -11,7 +11,7 @@
 [![](https://raw.githubusercontent.com/IU-Studies/IU-Studies/master/profile-summary-card-output/synthwave/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/IU-Studies/IU-Studies/master/profile-summary-card-output/synthwave/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/IU-Studies/IU-Studies/master/profile-summary-card-output/synthwave/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/IU-Studies/IU-Studies/master/profile-summary-card-output/synthwave/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <div style="width: 300px; height: 75px; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 90%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 80%; height: auto;">
 </div>
 
 
