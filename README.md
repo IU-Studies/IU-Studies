@@ -4,6 +4,8 @@
 
 <span style="color:#FFA500;"><b>👋 Hi, I’m @IU</b></span><br> <span style="color:#0000FF;"><b>👀 I’m interested in Technology</b></span><br> <span style="color:#228B22;"><b>🌱 I’m currently learning Computer Science</b></span><br> <span style="color:#FF69B4;"><b>💞️ I’m looking to collaborate on Educational Stuffs</b></span><br> <span style="color:#8B008B;"><b>😄 Pronouns: He/Him</b></span><br> <span style="color:#FFD700;"><b>⚡ Quote: Love all, serve all. Help ever, hurt never.</b></span>
 
+
+
 # 📊 GitHub Stats:
 
 
@@ -14,9 +16,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 80%; height: auto;">
 </div>
 
-
+---
 ### ✍️ Random Developer Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+    
 ---
 ![](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
+
