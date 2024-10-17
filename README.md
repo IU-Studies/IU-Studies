@@ -36,8 +36,6 @@
 ![](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
-
 <p align="center">
-  <img src="https://github.com/J-B-Mugundh/IU-Studies/blob/output/github-snake.svg" alt="snake">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
 </p>
