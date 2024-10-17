@@ -39,3 +39,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/IU-Studies/IU-Studies/blob/output/github-snake.svg" alt="snake">
+</p>
