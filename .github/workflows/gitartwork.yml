@@ -8,11 +8,12 @@
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
      steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: IU-Studies
-            # Text on contribution graph 
-            text: IU-Studies
-       - uses: jasineri/simple-push-action@v1 
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+           # Use this username's contribution graph  
+           user_name: IU-Studies
+           # Text on contribution graph (leave empty to remove)
+           text: ""
+      - uses: jasineri/simple-push-action@v1
+
