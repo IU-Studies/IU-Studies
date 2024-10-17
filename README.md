@@ -10,15 +10,15 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IU-Studies&theme=gotham" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IU-Studies&theme=gotham"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IU-Studies&theme=gotham"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IU-Studies&theme=gotham"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IU-Studies&theme=gotham" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IU-Studies&theme=transparent" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IU-Studies&theme=transparent"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IU-Studies&theme=transparent"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IU-Studies&theme=transparent"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IU-Studies&theme=transparent" />
 </div>
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&show_icons=true&theme=gotham&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&show_icons=true&theme=transparent&card_width=500" />
 </div>
 
 ---
