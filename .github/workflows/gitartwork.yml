@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: IU-Studies
             # Text on contribution graph 
-            text: IU - Studies
+            text: IU-Studies
        - uses: jasineri/simple-push-action@v1 
