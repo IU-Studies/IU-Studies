@@ -15,4 +15,4 @@
             user_name: IU-Studies
             # Text on contribution graph 
             text: IU - Studies
-       - uses: jasineri/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1 
