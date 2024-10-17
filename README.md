@@ -23,7 +23,8 @@
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&show_icons=true&theme=transparent&hide_border=true&card_width=500" />
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
 ### ✍️ Random Developer Quote
