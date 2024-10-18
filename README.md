@@ -1,18 +1,27 @@
-![IU - Studies](https://github.com/user-attachments/assets/15b8a80f-aebb-4024-9977-2852b1ca3054)
 
+![IU - Studies](https://github.com/user-attachments/assets/6d1a04cf-3e81-4b72-805a-6ab5c0cbaef9)
 
-![IU - Studies (2)](https://github.com/user-attachments/assets/fdeb4632-1b33-4ab0-aae2-d0a7b854440e)
+<a href="https://github.com/NK-Works">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
 
-<h1 align="center">💫 About me:</h1>
-
+<br> </br>
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
 
-<span style="color:#FFA500;"><b>👋 Hi, I’m @IU</b></span><br> <span style="color:#0000FF;"><b>👀 I’m interested in Technology</b></span><br> <span style="color:#228B22;"><b>🌱 I’m currently learning Computer Science</b></span><br> <span style="color:#FF69B4;"><b>💞️ I’m looking to collaborate on Educational Stuffs</b></span><br> <span style="color:#8B008B;"><b>😄 Pronouns: He/Him</b></span><br> <span style="color:#FFD700;"><b>⚡ Quote: Love all, serve all. Help ever, hurt never.</b></span>
+<span style="color:#0000FF;"><b>👀 I’m interested in technology.</b></span><br> 
+<span style="color:#228B22;"><b>🌱 I’m currently studying Computer Science.</b></span><br> 
+<span style="color:#FF69B4;"><b>🔭 I’m currently working on classwork repositories.</b></span><br> 
+<span style="color:#8B008B;"><b>💞️ I’m looking to collaborate on educational projects.</b></span><br> 
+<span style="color:#FFD700;"><b>🤝 I am looking to help you out with study-related work.</b></span><br> 
+<span style="color:#0000FF;"><b>💬 Feel free to ask me about my studies.</b></span><br> 
+<span style="color:#FF69B4;"><b>⚡ Fun fact: The first gigabyte drive cost $40,000!</b></span><br> 
+<span style="color:#FFD700;"><b>❤️ Favorite quote: "Love all, serve all. Help ever, hurt never."</b></span>
 
 
+<br> </br>
 
-# 📊 GitHub Stats:
+<h1 align="center"> 📊 GitHub Stats: </h1>
 
 
 <div align="center">
@@ -41,9 +50,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### ✍️ Random Developer Quote
+<h2 align="center"> ✍️ Random Developer Quote </h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">    
 
