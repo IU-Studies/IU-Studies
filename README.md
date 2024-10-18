@@ -1,4 +1,7 @@
+![IU - Studies](https://github.com/user-attachments/assets/15b8a80f-aebb-4024-9977-2852b1ca3054)
 
+
+![IU - Studies (2)](https://github.com/user-attachments/assets/fdeb4632-1b33-4ab0-aae2-d0a7b854440e)
 
 <h1 align="center">💫 About me:</h1>
 
