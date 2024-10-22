@@ -1,5 +1,6 @@
-
+<!-- IU animation -->
 ![IU - Studies](https://github.com/user-attachments/assets/6d1a04cf-3e81-4b72-805a-6ab5c0cbaef9)
+
 
 <a href="https://github.com/NK-Works">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
