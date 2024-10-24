@@ -5,11 +5,12 @@
 <a href="https://github.com/NK-Works">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
-
 <br> </br>
 
+<!-- Animated Laptop GIF -->
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
 
+<!-- Profile Description -->
 <span style="color:#0000FF;"><b>👀 I’m interested in technology.</b></span><br> 
 <span style="color:#228B22;"><b>🌱 I’m currently studying Computer Science.</b></span><br> 
 <span style="color:#FF69B4;"><b>🔭 I’m currently working on classwork repositories.</b></span><br> 
