@@ -41,11 +41,16 @@
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&show_icons=true&theme=transparent&hide_border=true&card_width=500" />
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
 </div>
 <a href="https://github.com/NK-Works"> 
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
 </a>
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&show_icons=true&theme=transparent&hide_border=true&card_width=500" />
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 
 ![IU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&hide_border=true)
