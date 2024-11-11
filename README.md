@@ -1,3 +1,7 @@
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=IU-Studies&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+
+
 <!-- IU Animation GIF -->
 ![IU - Studies](https://github.com/user-attachments/assets/6d1a04cf-3e81-4b72-805a-6ab5c0cbaef9)
 
