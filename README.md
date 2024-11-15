@@ -48,11 +48,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- GitHub Streak -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="display:inline; z-index: 999; position: relative; margin-left: 10px;">
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="z-index: 1; margin-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true" style="z-index: 2;"/>
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="z-index: 1; margin-left: 10px;">
 </div>
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="display:inline; z-index: 999; position: relative; margin-left: 10px;">
+
 
 <!-- Divider GIF -->
 <a href="https://github.com/NK-Works">
