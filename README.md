@@ -49,9 +49,7 @@
 
 <!-- GitHub Streak -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 0; padding-top: 0;">
-    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="z-index: 1; margin-right: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
-    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="z-index: 1; margin-left: 10px;">
 </div>
 
 
