@@ -1,3 +1,4 @@
+
 <!-- IU Animation GIF -->
 ![IU - Studies](https://github.com/user-attachments/assets/6d1a04cf-3e81-4b72-805a-6ab5c0cbaef9)
 
