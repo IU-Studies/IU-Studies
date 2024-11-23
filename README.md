@@ -1,4 +1,3 @@
-
 <!-- IU Animation GIF -->
 ![IU - Studies](https://github.com/user-attachments/assets/6d1a04cf-3e81-4b72-805a-6ab5c0cbaef9)
 
@@ -20,7 +19,6 @@
 <span style="color:#0000FF;"><b>💬 Feel free to ask me about my studies.</b></span><br>
 <span style="color:#FF69B4;"><b>⚡ Fun fact: The first gigabyte drive cost $40,000!</b></span><br>
 <span style="color:#FFD700;"><b>❤️ Favorite quote: "Love all, serve all. Help ever, hurt never."</b></span>
-
 <br> </br>
 
 <!-- GitHub Stats Header -->
