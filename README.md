@@ -73,7 +73,6 @@
 
 <!-- Developer Quote Section -->
 <h2 align="center"> ✍️ Random Developer Quote </h2>
-
 <div align="center">
     <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
