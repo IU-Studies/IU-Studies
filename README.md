@@ -50,8 +50,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
 </div>
 
-
-
 <!-- Divider GIF -->
 <a href="https://github.com/NK-Works">
     <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" />
