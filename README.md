@@ -46,6 +46,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- GitHub Streak -->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 <div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 0; padding-top: 0;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
 </div>
