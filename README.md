@@ -51,9 +51,7 @@
 </div>
 
 <!-- Divider GIF -->
-<a href="https://github.com/NK-Works">
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" />
-</a>
+<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
 <!-- Top Languages Summary -->
 <div align="center">
