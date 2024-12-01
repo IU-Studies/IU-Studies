@@ -34,9 +34,7 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IU-Studies&theme=transparent" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IU-Studies&theme=transparent" />
     <!-- Divider GIF -->
-    <a href="https://github.com/NK-Works">
-        <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" />
-    </a>
+    <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
     <!-- Stats Card -->
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IU-Studies&theme=transparent" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IU-Studies&theme=transparent" />
