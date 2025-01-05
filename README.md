@@ -77,6 +77,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!-- Visitor Count -->
+<img src="https://profile-counter.glitch.me/%7BIU-Studies10%7D/count.svg" alt="visitor badge"/>
 
 ![](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
 
