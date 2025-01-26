@@ -81,6 +81,7 @@
 
 ![](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
 
+
 <!-- Footer Wave Effect -->
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
