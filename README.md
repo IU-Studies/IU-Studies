@@ -18,7 +18,7 @@
 <span style="color:#FFD700;"><b>🤝 I am looking to help you out with study-related work.</b></span><br>
 <span style="color:#0000FF;"><b>💬 Feel free to ask me about my studies.</b></span><br>
 <span style="color:#FF69B4;"><b>⚡ Fun fact: The first gigabyte drive cost $40,000!</b></span><br>
-<span style="color:#FFD700;"><b>❤️ Favorite quote: "Love all, serve all. Help ever, hurt never."</b></span>
+<span style="color:#FFD700;"><b>❤️ Favorite quote: "Help ever, hurt never."</b></span>
 <br> </br>
 
 <!-- GitHub Stats Header -->
