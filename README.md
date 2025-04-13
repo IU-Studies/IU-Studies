@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
 
 <!-- Profile Description -->
-<span style="color:#0000FF;"><b>📌 YouTube - https://www.youtube.com/@IU-Studies</b></span><br>
+
 <span style="color:#0000FF;"><b>👀 I’m interested in technology.</b></span><br>
 <span style="color:#228B22;"><b>🌱 I’m currently studying Computer Science.</b></span><br>
 <span style="color:#FF69B4;"><b>⚡ Fun fact: The first gigabyte drive cost $40,000!</b></span><br>
