@@ -15,7 +15,8 @@
 <span style="color:#0000FF;"><b>👀 I’m interested in technology.</b></span><br>
 <span style="color:#228B22;"><b>🌱 I’m currently studying Computer Science.</b></span><br>
 <span style="color:#FF69B4;"><b>⚡ Fun fact: The first gigabyte drive cost $40,000!</b></span><br>
-<span style="color:#FFD700;"><b>❤️ Favorite quote: "Help ever, hurt never."</b></span>
+<span style="color:#FFD700;"><b>❤️ Favorite quote: "Help ever, hurt never."</b></span><br>
+<span style="color:#FFD700;"><b>❤️ YouTube Channel: www.youtube.com/@IU-Studies</b></span>
 <br> </br>
 
 <!-- GitHub Stats Header -->
